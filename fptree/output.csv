@@ -1,0 +1,38 @@
+Itemset,Support
+beer,70
+"beer, bread",51
+"beer, bread, diapers",51
+"beer, bread, milk",34
+"beer, bread, milk, diapers",34
+"beer, diapers",68
+"beer, milk",53
+"beer, milk, diapers",51
+bread,123
+cola,57
+"cola, beer",17
+"cola, beer, diapers",17
+"cola, beer, diapers, milk",17
+"cola, beer, milk",17
+"cola, bread",34
+"cola, diapers",17
+"cola, diapers, milk",17
+"cola, milk",19
+diapers,87
+"diapers, bread",70
+"diapers, milk",68
+"diapers, milk, bread",51
+eggs,55
+"eggs, beer",17
+"eggs, beer, bread",17
+"eggs, beer, diapers",17
+"eggs, beer, diapers, bread",17
+"eggs, bread",51
+"eggs, diapers",34
+"eggs, diapers, bread",34
+"eggs, diapers, milk",17
+"eggs, diapers, milk, bread",17
+"eggs, milk",38
+"eggs, milk, bread",34
+juice,11
+milk,95
+"milk, bread",70
