@@ -1,3 +1,5 @@
 # Data Mining
 
-Fork this repositry and update your readme file to including your name, id and year.
+Ezzeldin Mohamed 
+211006970 
+IS semester 8
